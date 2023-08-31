@@ -1,0 +1,10 @@
+# Variables you want to use in the config
+environment = "prd"
+landing_zone = "a004"
+workload_id = "wkld123"
+budgetcode = "90501121"
+owner = "uitjj@leeds.ac.uk"
+description = "value"
+criticality = "L3"
+bussinessunit = "IT SM&I"
+landing_zone_id = "a004"
